@@ -1,4 +1,4 @@
-# Getting Started with Bank App
+# Getting Started with Bank App (MERN application)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -13,3 +13,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 Server will run on port 3001
+
+The Bank app help you keep track of your expenses and organise them for you:
