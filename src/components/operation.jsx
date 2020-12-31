@@ -86,8 +86,8 @@ function Operations(props) {
             <input className="col s12 l6 offset-l3 center"  id="date-input" name="date" type="date" onChange={inputHandler}></input>
             <div className="col s12 l6 offset-l3 center" id="date-info">Date of transaction(if untouched it will take current time)</div>
             <div >
-                <a className="col s5 offset-s1 l2 offset-l4 waves-effect waves-light btn red lighten-2" onClick={deposit}>Deposit</a>
-                <a className="col s5 l2 waves-effect waves-light btn red lighten-2" onClick={withdraw}>Withdraw</a>
+                <a className="col s5 offset-s1 l2 offset-l4 waves-effect waves-light btn red darken-4" onClick={deposit}>Deposit</a>
+                <a className="col s5 l2 waves-effect waves-light btn red darken-4" onClick={withdraw}>Withdraw</a>
             </div>
         </div>
   );
