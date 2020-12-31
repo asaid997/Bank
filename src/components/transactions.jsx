@@ -48,6 +48,7 @@ function Transactions(props) {
             <table className="centered">
                 <thead>
                     <tr className="">
+                        <th>Date</th>
                         <th>Amount</th>
                         <th>Category</th>
                         <th>Vendor</th>
