@@ -35,7 +35,7 @@ function Transactions(props) {
     useEffect(() => filterByMonth(),[transactions])
     useEffect(() => filterByMonth(),[month])
     //useEffect
-    
+
     return (
 
         <div>
