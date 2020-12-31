@@ -17,3 +17,7 @@ Server will run on port 3001
 Compatible with both phone and computer
 
 The Bank app help you keep track of your expenses and organise them for you:
+
+<img src="operation1.png" alt="operation1" height="450"/> <img src="operation2.png" alt="operation2" height="450"/> <img src="operation3.png" alt="operation3" height="450"/>
+<img src="transactions1.png" alt="transaction1" height="450"/> <img src="transaction2.png" alt="transaction2" height="450"/>
+<img src="categories.png" alt="categories" height="450"/>
